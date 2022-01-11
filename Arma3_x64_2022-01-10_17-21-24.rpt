@@ -1,0 +1,1048 @@
+=====================================================================
+== F:\SteamLibrary2\steamapps\common\Arma 3\Arma3_x64.exe
+== "F:\SteamLibrary2\steamapps\common\Arma 3\Arma3_x64.exe" -noSplash -cpuCount=8 -exThreads=7 -enableHT -malloc=tbb4malloc_bi_x64 -maxmem=10240 -maxvram=2048 -world=empty "-mod=F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3;F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET;F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced"
+
+Original output filename: Arma3Retail_DX11_x64
+Exe timestamp: 2021/11/10 16:22:22
+Current time:  2022/01/10 17:21:24
+
+Type: Public
+Build: Stable
+Version: 2.06.148470
+
+Allocator: F:\SteamLibrary2\steamapps\common\Arma 3\Dll\tbb4malloc_bi_x64.dll [2017.0.0.0] [2017.0.0.0]
+PhysMem: 32 GiB, VirtMem : 131072 GiB, AvailPhys : 25 GiB, AvailVirt : 131068 GiB, AvailPage : 26 GiB, PageSize : 4.0 KiB/2.0 MiB/HasLockMemory
+=====================================================================
+
+17:21:24 Detected number of DLCs: 20
+17:21:24 ---------------------------------------------------------- Game ----------------------------------------------------------
+17:21:24                                                                name      appId   owned  installed  available   isDlc
+17:21:24                                                              Arma 3     107410     yes        yes        yes      no
+17:21:24                                                             Unknown         -1      no         no         no     yes
+17:21:24 ---------------------------------------------------------- Dlcs ----------------------------------------------------------
+17:21:24  index                                                         name      appId   owned  installed  available   isDlc
+17:21:24      0                                                  Arma 3 Maps     249861      no         no         no     yes
+17:21:24      1                                        Arma 3 Tactical Guide     249862      no         no         no     yes
+17:21:24      2                                                  Arma 3 Zeus     275700     yes        yes        yes     yes
+17:21:24      3                                                 Arma 3 Karts     288520     yes        yes        yes     yes
+17:21:24      4                                           Arma 3 Helicopters     304380     yes        yes        yes     yes
+17:21:24      5                                          Arma 3 DLC Bundle 1     304400      no         no         no     yes
+17:21:24      6                                              Arma 3 Marksmen     332350     yes        yes        yes     yes
+17:21:24      7                                                  Arma 3 Apex     395180     yes        yes        yes     yes
+17:21:24      8                                           Arma 3 Laws of War     571710     yes        yes        yes     yes
+17:21:24      9                                                  Arma 3 Jets     601670     yes        yes        yes     yes
+17:21:24     10                                          Arma 3 DLC Bundle 2     612480      no         no         no     yes
+17:21:24     11                                                Arma 3 Malden     639600     yes        yes        yes     yes
+17:21:24     12                                  Arma 3 Tac-Ops Mission Pack     744950     yes        yes        yes     yes
+17:21:24     13                                                 Arma 3 Tanks     798390     yes        yes        yes     yes
+17:21:24     14                                               Arma 3 Contact    1021790     yes        yes        yes     yes
+17:21:24     15   Arma 3 Creator DLC: Global Mobilization - Cold War Germany    1042220      no         no        yes     yes
+17:21:24     16                      Arma 3 Creator DLC: S.O.G. Prairie Fire    1227700      no         no        yes     yes
+17:21:24     17                        Arma 3 Creator DLC: CSLA Iron Curtain    1294440      no         no        yes     yes
+17:21:24     18                                            Arma 3 Art of War    1325500     yes        yes        yes     yes
+17:21:24     19                           Arma 3 Creator DLC: Western Sahara    1681170      no         no        yes     yes
+17:21:24 --------------------------------------------------------------------------------------------------------------------------
+17:21:25 Initializing stats manager.
+17:21:25 sessionID: 18c6de3ceb53b5c6c635112969ff2bef30ac17b0
+17:21:44 Conflicting addon OPTRE_UNSC_Structure_Military in 'OPTRE_Buildings\military\', previous definition in 'OPTRE_Arctic\'
+17:21:44 Conflicting addon OPTRE_BW_WeaponRack in 'OPTRE_BW_Buildings\furniture\weaponsrack\', previous definition in 'OPTRE_Buildings\military\optre_weapon_crate\'
+17:21:44 Conflicting addon OPTRE_Corvette in 'OPTRE_Corvette\', previous definition in 'OPTRE_Corvette\holotable\'
+17:21:44 Conflicting addon OPTRE_Corvette in 'OPTRE_Corvette\interior\', previous definition in 'OPTRE_Corvette\holotable\'
+17:21:45 Conflicting addon OPTRE_MJOLNIR_data_anims_Air_F_Heli_Light_01 in 'OPTRE_MJOLNIR\data\anims\air_f\heli_light_01\', previous definition in 'OPTRE_MJOLNIR\data\anims\air_f\'
+17:21:54 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/ (original bin\config.bin)
+17:21:54 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/ (original bin\config.bin)
+17:21:54 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/ (original bin\config.bin)
+17:21:54 Updating base class ->Default, by OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin/CfgMovesBasicSevenFoot/DefaultDie/ (original OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin)
+17:21:54 Updating base class ->NoActions, by OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin/CfgMovesBasicSevenFoot/Actions/CargoActions/ (original OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin)
+17:21:54 Updating base class ->Default, by OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin/CfgMovesMaleSevenFoot/States/Crew/ (original OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin)
+17:21:54 Updating base class ->StandBase, by OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin/CfgMovesMaleSevenFoot/States/AmovPercMstpSnonWnonDnon/ (original OPTRE_MJOLNIR\data\anims\anims_f\config\sdr\config.bin)
+17:21:54 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/ (original bin\config.bin)
+17:21:54 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/ (original bin\config.bin)
+17:21:54 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/ (original bin\config.bin)
+17:21:54 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/ (original bin\config.bin)
+17:21:54 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/ (original bin\config.bin)
+17:21:54 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/ (original bin\config.bin)
+17:21:54 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/ (original bin\config.bin)
+17:21:54 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/ (original bin\config.bin)
+17:21:54 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/ (original bin\config.bin)
+17:21:54 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/Controls/ButtonCancel/ (original bin\config.bin)
+17:21:54 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+17:21:54 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/ (original bin\config.bin)
+17:21:54 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/ (original bin\config.bin)
+17:21:54 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/ (original bin\config.bin)
+17:21:54 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/ (original bin\config.bin)
+17:21:54 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/ (original bin\config.bin)
+17:21:54 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/ (original bin\config.bin)
+17:21:54 Updating base class ->ItemCore, by a3\weapons_f\acc\config.bin/CfgWeapons/optic_Aco/ (original a3\weapons_f\acc\config.bin)
+17:21:54 Updating base class DefaultLighting->Lighting, by OPTRE_Phobos\config.bin/CfgWorlds/CAWorld/Lighting/ (original a3\map_data\config.bin)
+17:21:54 Updating base class DefaultLighting->Lighting, by OPTRE_Phobos\config.bin/CfgWorlds/Altis/Lighting/ (original a3\map_altis\config.bin)
+17:21:54 Updating base class Plane->Helicopter, by OPTRE_Vehicles\wombat\config.bin/CfgVehicles/Plane_Base_F/ (original (a3\air_f_beta\config.bin - no unload))
+17:21:54 Updating base class ->Turrets, by OPTRE_Vehicles\wombat\config.bin/CfgVehicles/Plane_Base_F/Turrets/ (original a3\air_f_beta\config.bin)
+17:21:54 Updating base class HitPoints->HitPoints, by OPTRE_Vehicles\wombat\config.bin/CfgVehicles/Plane_Base_F/HitPoints/ (original OPTRE_Vehicles\wombat\config.bin)
+17:21:54 Updating base class Plane->Plane_Base_F, by OPTRE_Vehicles\wombat\config.bin/CfgVehicles/UAV/ (original (a3\data_f\config.bin - no unload))
+17:21:54 Updating base class Helicopter->Plane, by a3\air_f_epc\plane_cas_01\config.bin/CfgVehicles/Plane_Base_F/ (original (a3\air_f_beta\config.bin - no unload))
+17:21:54 Updating base class HitPoints->HitPoints, by a3\air_f_epc\plane_cas_01\config.bin/CfgVehicles/Plane_Base_F/HitPoints/ (original a3\air_f_epc\plane_cas_01\config.bin)
+17:21:54 Updating base class Plane_Base_F->Plane, by a3\drones_f\air_f_gamma\uav_02\config.bin/CfgVehicles/UAV/ (original (a3\data_f\config.bin - no unload))
+17:21:54 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStatic/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlActiveText, by a3\3den\config.bin/ctrlActivePicture/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStructuredText/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlControlsGroup, by a3\3den\config.bin/ctrlControlsGroupNoScrollbars/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlDefault, by a3\3den\config.bin/ctrlCheckbox/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlCheckbox, by a3\3den\config.bin/ctrlCheckboxBaseline/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+17:21:54 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+17:21:54 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/ (original a3\ui_f\config.bin)
+17:21:54 Updating base class ->ctrlControlsGroupNoScrollbars, by a3\3den\config.bin/Cfg3DEN/Attributes/Default/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlStatic, by a3\3den\config.bin/Cfg3DEN/Attributes/Title/Controls/Title/ (original a3\3den\config.bin)
+17:21:54 Updating base class ->ctrlToolbox, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/Value/ (original a3\3den\config.bin)
+17:21:55 Updating base class Turrets->, by a3\air_f_exp\plane_civil_01\config.bin/CfgVehicles/Plane_Base_F/Turrets/ (original (a3\air_f_beta\config.bin - no unload))
+17:21:55 Updating base class House_F->OPTRE_DeprecatedClass_Inheritor, by OPTRE_Frigate\interior\config.bin/CfgVehicles/OPTRE_hallway_door_a/ (original OPTRE_Corvette\interior\config.bin)
+17:21:55 Updating base class ->HitFace, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitNeck/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitNeck, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitHead/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitHead, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitPelvis/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitPelvis, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitAbdomen/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitAbdomen, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitDiaphragm/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitDiaphragm, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitChest/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitChest, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitBody/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitBody, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitArms/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitArms, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitHands/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->HitHands, by OPTRE_UNSC_Units\config.bin/CfgVehicles/OPTRE_UNSC_Soldier_Base/HitPoints/HitLegs/ (original OPTRE_UNSC_Units\config.bin)
+17:21:55 Updating base class ->H_Cap_oli, by OPTRE_UNSC_Units\army\config.bin/cfgWeapons/OPTRE_UNSC_Hat_Base/ (original OPTRE_UNSC_Units\army\config.bin)
+17:21:55 Updating base class ->Sounds, by OPTRE_Vehicles\bison\config.bin/CfgVehicles/APC_Wheeled_01_base_F/Sounds/ (original a3\sounds_f\config.bin)
+17:21:55 Updating base class Turrets->, by OPTRE_Vehicles\bison\config.bin/CfgVehicles/APC_Wheeled_01_base_F/Turrets/ (original a3\armor_f_beta\apc_wheeled_01\config.bin)
+17:21:55 Updating base class MainTurret->NewTurret, by OPTRE_Vehicles\bison\config.bin/CfgVehicles/APC_Wheeled_01_base_F/Turrets/MainTurret/ (original a3\armor_f_beta\apc_wheeled_01\config.bin)
+17:21:55 Updating base class Turrets->, by OPTRE_Vehicles\bison\config.bin/CfgVehicles/APC_Wheeled_01_base_F/Turrets/MainTurret/Turrets/ (original a3\armor_f_beta\apc_wheeled_01\config.bin)
+17:21:55 Updating base class Ship_F->Ship, by OPTRE_Vehicles\catfish\config.bin/CfgVehicles/Boat_F/ (original (a3\boat_f\config.bin - no unload))
+17:21:55 Updating base class CfgMovesBasicSevenFoot->CfgMovesBasic, by OPTRE_Weapons\br\config.bin/CfgMovesMaleSevenFoot/ (original (OPTRE_MJOLNIR\data\anims\air_f\config.bin - no unload))
+17:21:55 Updating base class CfgMovesBasic->CfgMovesBasicSevenFoot, by OPTRE_Weapons\static\lau65d\config.bin/CfgMovesMaleSevenFoot/ (original (OPTRE_MJOLNIR\data\anims\air_f\config.bin - no unload))
+17:21:55 Updating base class ->OPTRE_Ammo_Rack_Ammo, by OPTRE_BW_Buildings\furniture\weaponsrack\config.bin/CfgVehicles/OPTRE_Furniture_AmmoRack/ (original OPTRE_BW_Buildings\furniture\weaponsrack\config.bin)
+17:21:55 Updating base class ->OPTRE_UNSC_Soldier_Base, by OPTRE_Ins_Units\urf\config.bin/CfgVehicles/OPTRE_Ins_URF_Soldier_Base/ (original OPTRE_Ins_Units\urf\config.bin)
+17:21:55 Updating base class ->OPTRE_Ins_URF_Soldier_Base, by OPTRE_Ins_Units\urf\config.bin/CfgVehicles/OPTRE_Ins_URF_TeamLead/ (original OPTRE_Ins_Units\urf\config.bin)
+17:21:55 Updating base class ->OPTRE_Ammo_Rack_Weapons, by OPTRE_Misc\crates\config.bin/CfgVehicles/OPTRE_Ammo_Rack_Ammo/ (original OPTRE_Misc\crates\config.bin)
+17:21:55 Initializing Steam Manager
+17:21:55 Starting initial content check.
+17:21:55 Steam Manager initialized.
+17:21:55 
+17:21:55 ==== Loaded addons ====
+17:21:55 
+17:21:55 dta\bin.pbo - 148470
+17:21:55 dta\core.pbo - 129618
+17:21:55 dta\languagecore_f.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_ai.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_area_markers.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_attributes.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_camera.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_common.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_compositions.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_context_actions.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_context_menu.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_cover_map.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_custom_modules.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_damage.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_dialog.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_doors.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_editor.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_editor_previews.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_faction_filter.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_flashlight.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_garage.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_inventory.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_loadout.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_main.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_markers_tree.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_modules.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_music.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_placement.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_position_logics.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_pylons.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_remote_control.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_tasks.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_visibility.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced\addons\zen_vision.pbo - 070f524c
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_arctic.pbo - 21120714
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_blood.pbo - Wed Jul 15 06:31:06 2020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_buildings.pbo - 21120714
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_bw_buildings.pbo - 21120714
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_core.pbo - 21111214
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_corvette.pbo - 21120714
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_emblems.pbo - 21022816
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_frigate.pbo - 21022816
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_functionslibrary.pbo - 21121016
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_gridlock.pbo - Wed Jul 15 06:38:29 2020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_hud.pbo - 21102014
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_iberius.pbo - Wed Jul 15 06:44:14 2020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_ins_units.pbo - 21121921
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_kholo.pbo - 20122817
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_madrigal.pbo - 21111213
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_misc.pbo - 21022816
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_mjolnir.pbo - 21120416
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_modules.pbo - 21051711
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_music.pbo - 21111023
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_optional_slimleg.pbo - 21022820
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_phobos.pbo - 21012102
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_plants.pbo - 21022820
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_rail.pbo - 21022820
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_remoteexec.pbo - 21022820
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_rocks.pbo - 21073114
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_sandstorm.pbo - Wed Jul 15 07:31:55 2020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_suit_scripts.pbo - 21090814
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_terrain_lib.pbo - 21022820
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_unsc_units.pbo - 21121921
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_vehicles.pbo - 21122317
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET\addons\optre_weapons.pbo - Sat Dec 28 00:34:55 2019
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_accessory.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_ai.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_arrays.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_characters.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_common.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_diagnostic.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_disposable.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_ee.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_events.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_hashes.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_help.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_jam.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_jr.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_keybinding.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_main.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_main_a3.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_modules.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_music.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_network.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_optics.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_settings.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_statemachine.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_strings.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_ui.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_vectors.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_versioning.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3\addons\cba_xeh.pbo - 0fb4db14
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\anims_f_aow.ebo - 149768
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\characters_f_aow.ebo - 149965
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\data_f_aow.ebo - 149928
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\dubbing_f_aow.ebo - 149901
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\editorpreviews_f_aow.ebo - 149909
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\functions_f_aow.ebo - 149593
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\languagemissions_f_aow.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\language_f_aow.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\missions_f_aow.ebo - 149922
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\missions_f_aow_data.ebo - 149929
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\missions_f_aow_video.ebo - 149837
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\props_f_aow.ebo - 150020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\sounds_f_aow.ebo - 149668
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\structures_f_aow.ebo - 149883
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\supplies_f_aow.ebo - 149874
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\aow\addons\ui_f_aow.ebo - 149917
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\air_f_enoch.ebo - 145904
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\anims_f_enoch.ebo - 149965
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\armor_f_enoch.ebo - 145904
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\cargoposes_f_enoch.ebo - 142478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\characters_f_enoch.ebo - 149965
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\data_f_enoch.ebo - 150070
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\dubbing_radio_f_enoch.ebo - 150070
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\dubbing_radio_f_enoch_data.ebo - 150020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\editorpreviews_f_enoch.ebo - 145440
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\functions_f_enoch.ebo - 148356
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\languagemissions_f_enoch.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\language_f_enoch.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\map_enoch.ebo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\map_enoch_data.ebo - 145274
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\map_enoch_data_layers.ebo - 146184
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\map_enoch_scenes_f.ebo - 143336
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\missions_f_enoch.ebo - 149487
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\music_f_enoch.ebo - 147472
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\music_f_enoch_music.ebo - 147127
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\props_f_enoch.pbo - 148738
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\rocks_f_enoch.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\soft_f_enoch.ebo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\sounds_f_enoch.ebo - 148786
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\static_f_enoch.ebo - 145904
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch.pbo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_civilian.pbo - 148739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_commercial.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_cultural.pbo - 148739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_data.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_furniture.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_industrial.pbo - 148804
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_infrastructure.pbo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\structures_f_enoch_military.pbo - 149965
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\supplies_f_enoch.ebo - 146762
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\ui_f_enoch.ebo - 147095
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\vegetation_f_enoch.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\enoch\addons\weapons_f_enoch.ebo - 149930
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\armor_f_tank.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\cargoposes_f_tank.pbo - 128283
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\characters_f_tank.pbo - 148392
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\data_f_tank.pbo - 128203
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\dubbing_f_tank.pbo - 127958
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\editorpreviews_f_tank.pbo - 137875
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\functions_f_tank.pbo - 125996
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\languagemissions_f_tank.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\language_f_tank.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\missions_f_tank.pbo - 150028
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\missions_f_tank_data.pbo - 128937
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\modules_f_tank.pbo - 147857
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\music_f_tank.pbo - 127912
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\props_f_tank.pbo - 131702
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\sounds_f_tank.pbo - 143095
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\structures_f_tank.pbo - 137876
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\ui_f_tank.pbo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tank\addons\weapons_f_tank.pbo - 146892
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\characters_f_tacops.ebo - 129739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\data_f_tacops.ebo - 150102
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\dubbing_f_tacops.ebo - 129340
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\functions_f_tacops.ebo - 150125
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\languagemissions_f_tacops.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\language_f_tacops.ebo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\missions_f_tacops.ebo - 144976
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\modules_f_tacops.ebo - 149359
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\music_f_tacops.ebo - 124064
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\sounds_f_tacops.ebo - 123795
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\tacops\addons\ui_f_tacops.ebo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\air_f_orange.pbo - 150020
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\cargoposes_f_orange.pbo - 126225
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\characters_f_orange.pbo - 148442
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\data_f_orange.pbo - 144284
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\dubbing_f_orange.pbo - 121689
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\editorpreviews_f_orange.pbo - 123173
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\functions_f_orange.pbo - 149339
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\languagemissions_f_orange.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\language_f_orange.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\missions_f_orange.pbo - 149975
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\modules_f_orange.pbo - 143632
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\music_f_orange.pbo - 120725
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\props_f_orange.pbo - 148864
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\soft_f_orange.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\sounds_f_orange.pbo - 145695
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\structures_f_orange.pbo - 147636
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\supplies_f_orange.pbo - 129371
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\ui_f_orange.pbo - 149706
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\orange\addons\weapons_f_orange.pbo - 149274
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\armor_f_argo.pbo - 129739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\characters_f_patrol.pbo - 149127
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\data_f_argo.pbo - 128209
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\data_f_patrol.pbo - 141307
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\editorpreviews_f_argo.pbo - 142758
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\functions_f_patrol.pbo - 141510
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\languagemissions_f_patrol.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\language_f_argo.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\language_f_patrol.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\map_malden.pbo - 148936
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\map_malden_data.pbo - 135888
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\map_malden_data_layers.pbo - 135888
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\map_malden_scenes_f.pbo - 120026
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\missions_f_patrol.pbo - 126663
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\modules_f_patrol.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\music_f_argo.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\props_f_argo.pbo - 129371
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\rocks_f_argo.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\sounds_f_patrol.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\structures_f_argo.pbo - 147656
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\ui_f_patrol.pbo - 141307
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\vegetation_f_argo.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\argo\addons\weapons_f_patrol.pbo - 141307
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\air_f_jets.pbo - 146744
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\anims_f_jets.pbo - 123210
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\boat_f_destroyer.pbo - 143297
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\boat_f_jets.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\cargoposes_f_jets.pbo - 126225
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\characters_f_jets.pbo - 129739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\data_f_destroyer.pbo - 132156
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\data_f_jets.pbo - 146856
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\data_f_sams.pbo - 132140
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\dubbing_f_jets.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\editorpreviews_f_destroyer.pbo - 132141
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\editorpreviews_f_jets.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\editorpreviews_f_sams.pbo - 132141
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\functions_f_destroyer.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\functions_f_jets.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\languagemissions_f_jets.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\language_f_destroyer.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\language_f_jets.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\language_f_sams.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\missions_f_jets.pbo - 130755
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\modules_f_jets.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\music_f_jets.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\props_f_destroyer.pbo - 132141
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\props_f_jets.pbo - 129371
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\sounds_f_jets.pbo - 141706
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\static_f_destroyer.pbo - 140243
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\static_f_jets.pbo - 146744
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\static_f_sams.pbo - 146744
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\ui_f_jets.pbo - 126137
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\weapons_f_destroyer.pbo - 132268
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\weapons_f_jets.pbo - 148847
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\jets\addons\weapons_f_sams.pbo - 149414
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\air_f_exp.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\anims_f_exp.pbo - 126506
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\armor_f_exp.pbo - 141671
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\boat_f_exp.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\cargoposes_f_exp.pbo - 126224
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\characters_f_exp.pbo - 149878
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\characters_f_oldman.pbo - 148698
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\data_f_exp.pbo - 148936
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\data_f_oldman.pbo - 148580
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_f_exp.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_f_oldman.pbo - 148756
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp.pbo - 119458
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_chi.pbo - 119458
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_engfre.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_fre.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\editorpreviews_f_exp.pbo - 147098
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\editorpreviews_f_oldman.pbo - 148621
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\functions_f_exp.pbo - 144006
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\functions_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\languagemissions_f_exp.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\languagemissions_f_oldman.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\language_f_exp.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\language_f_oldman.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_data_exp.pbo - 136265
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_tanoabuka.pbo - 148936
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data.pbo - 135884
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data_layers.pbo - 121192
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data_layers_00_00.pbo - 121192
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\map_tanoa_scenes_f.pbo - 123527
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\missions_f_exp.pbo - 144315
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\missions_f_exp_data.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\missions_f_oldman.pbo - 150013
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\modules_f_exp.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\modules_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\music_f_exp.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\music_f_exp_music.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\music_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\music_f_oldman_music.pbo - 148679
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\props_f_exp.pbo - 147637
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\props_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\rocks_f_exp.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\soft_f_exp.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\soft_f_oldman.pbo - 148580
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\sounds_f_exp.pbo - 149339
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\sounds_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\static_f_exp.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\static_f_oldman.pbo - 148580
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_civilian.pbo - 148739
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_commercial.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_cultural.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_data.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_industrial.pbo - 148419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_exp_infrastructure.pbo - 148551
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\structures_f_oldman.pbo - 150089
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\supplies_f_exp.pbo - 148079
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\supplies_f_oldman.pbo - 148553
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\ui_f_exp.pbo - 123398
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\ui_f_oldman.pbo - 149216
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\vegetation_f_exp.pbo - 148432
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\expansion\addons\weapons_f_exp.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\anims_f_mark.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\characters_f_mark.pbo - 148392
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\data_f_mark.pbo - 129371
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\dubbing_f_mark.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\dubbing_f_mp_mark.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\functions_f_mark.pbo - 150154
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\functions_f_mp_mark.pbo - 129434
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\languagemissions_f_mark.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\languagemissions_f_mp_mark.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\language_f_mark.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\language_f_mp_mark.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\missions_f_mark.pbo - 122301
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\missions_f_mark_data.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\missions_f_mark_video.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark.pbo - 141704
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark_data.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\modules_f_mark.pbo - 148886
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\modules_f_mp_mark.pbo - 143568
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\music_f_mark.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\music_f_mark_music.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\sounds_f_mark.pbo - 143218
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\static_f_mark.pbo - 146756
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\structures_f_mark.pbo - 149003
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\supplies_f_mark.pbo - 140562
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\ui_f_mark.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\ui_f_mp_mark.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\mark\addons\weapons_f_mark.pbo - 149339
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\air_f_heli.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\anims_f_heli.pbo - 123210
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\boat_f_heli.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\cargoposes_f_heli.pbo - 126231
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\data_f_heli.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\dubbing_f_heli.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\functions_f_heli.pbo - 123022
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\languagemissions_f_heli.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\language_f_heli.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\missions_f_heli.pbo - 129397
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\missions_f_heli_data.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\missions_f_heli_video.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\modules_f_heli.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\music_f_heli.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\music_f_heli_music.pbo - 119477
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\soft_f_heli.pbo - 129742
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\sounds_f_heli.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\structures_f_heli.pbo - 141968
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\supplies_f_heli.pbo - 145695
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\heli\addons\ui_f_heli.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\anims_f_kart.pbo - 123210
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\characters_f_kart.pbo - 148392
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\data_f_kart.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\languagemissions_f_kart.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\language_f_kart.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\missions_f_kart.pbo - 149274
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\missions_f_kart_data.pbo - 119459
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\modules_f_kart.pbo - 150028
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\modules_f_kart_data.pbo - 149274
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\soft_f_kart.pbo - 150071
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\sounds_f_kart.pbo - 125381
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\structures_f_kart.pbo - 123419
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\ui_f_kart.pbo - 119478
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\kart\addons\weapons_f_kart.pbo - 138461
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\data_f_curator.pbo - 149127
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\data_f_curator_music.pbo - 119457
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\functions_f_curator.pbo - 150096
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\language_f_curator.pbo - 150117
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\missions_f_curator.pbo - 121570
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\modules_f_curator.pbo - 150096
+17:21:55 F:\SteamLibrary2\steamapps\common\Arma 3\curator\addons\ui_f_curator.pbo - 148756
+17:21:55 addons\3den.pbo - 150149
+17:21:55 addons\3den_language.pbo - 150117
+17:21:55 addons\a3.pbo - unknown
+17:21:55 addons\air_f.pbo - 150071
+17:21:55 addons\air_f_beta.pbo - 149975
+17:21:55 addons\air_f_epb.pbo - 145119
+17:21:55 addons\air_f_epc.pbo - 150048
+17:21:55 addons\air_f_gamma.pbo - 150048
+17:21:55 addons\animals_f.pbo - 150071
+17:21:55 addons\animals_f_beta.pbo - 150071
+17:21:55 addons\anims_f.pbo - 149800
+17:21:55 addons\anims_f_bootcamp.pbo - 123209
+17:21:55 addons\anims_f_data.pbo - 148601
+17:21:55 addons\anims_f_epa.pbo - 134499
+17:21:55 addons\anims_f_epc.pbo - 121358
+17:21:55 addons\anims_f_exp_a.pbo - 123209
+17:21:55 addons\anims_f_mod.pbo - 135280
+17:21:55 addons\armor_f.pbo - 149414
+17:21:55 addons\armor_f_beta.pbo - 150071
+17:21:55 addons\armor_f_epb.pbo - 149965
+17:21:55 addons\armor_f_epc.pbo - 148819
+17:21:55 addons\armor_f_gamma.pbo - 150071
+17:21:55 addons\baseconfig_f.pbo - 119457
+17:21:55 addons\boat_f.pbo - 150071
+17:21:55 addons\boat_f_beta.pbo - 132036
+17:21:55 addons\boat_f_epc.pbo - 131911
+17:21:55 addons\boat_f_gamma.pbo - 127529
+17:21:55 addons\cargoposes_f.pbo - 149489
+17:21:55 addons\characters_f.pbo - 150020
+17:21:55 addons\characters_f_beta.pbo - 149965
+17:21:55 addons\characters_f_bootcamp.pbo - 149274
+17:21:55 addons\characters_f_epa.pbo - 148392
+17:21:55 addons\characters_f_epb.pbo - 148392
+17:21:55 addons\characters_f_epc.pbo - 148392
+17:21:55 addons\characters_f_gamma.pbo - 148392
+17:21:55 addons\data_f.pbo - 150071
+17:21:55 addons\data_f_bootcamp.pbo - 129618
+17:21:55 addons\data_f_exp_a.pbo - 119457
+17:21:55 addons\data_f_exp_b.pbo - 119457
+17:21:55 addons\data_f_mod.pbo - 131534
+17:21:55 addons\data_f_warlords.pbo - 147096
+17:21:55 addons\drones_f.pbo - 146855
+17:21:55 addons\dubbing_f.pbo - 119457
+17:21:55 addons\dubbing_f_beta.pbo - 119457
+17:21:55 addons\dubbing_f_bootcamp.pbo - 119457
+17:21:55 addons\dubbing_f_epa.pbo - 119457
+17:21:55 addons\dubbing_f_epb.pbo - 119457
+17:21:55 addons\dubbing_f_epc.pbo - 119457
+17:21:55 addons\dubbing_f_gamma.pbo - 122449
+17:21:55 addons\dubbing_f_warlords.pbo - 136700
+17:21:55 addons\dubbing_radio_f.pbo - 119457
+17:21:55 addons\dubbing_radio_f_data_eng.pbo - 119457
+17:21:55 addons\dubbing_radio_f_data_engb.pbo - 119458
+17:21:55 addons\dubbing_radio_f_data_gre.pbo - 119458
+17:21:55 addons\dubbing_radio_f_data_per.pbo - 119458
+17:21:55 addons\dubbing_radio_f_data_vr.pbo - 119458
+17:21:55 addons\editorpreviews_f.pbo - 149003
+17:21:55 addons\editor_f.pbo - 121103
+17:21:55 addons\functions_f.pbo - 150098
+17:21:55 addons\functions_f_bootcamp.pbo - 149975
+17:21:55 addons\functions_f_epa.pbo - 138704
+17:21:55 addons\functions_f_epc.pbo - 119458
+17:21:55 addons\functions_f_exp_a.pbo - 122619
+17:21:55 addons\functions_f_warlords.pbo - 150013
+17:21:55 addons\languagemissions_f.pbo - 150117
+17:21:55 addons\languagemissions_f_beta.pbo - 150117
+17:21:55 addons\languagemissions_f_bootcamp.pbo - 150117
+17:21:55 addons\languagemissions_f_epa.pbo - 150117
+17:21:55 addons\languagemissions_f_epb.pbo - 150117
+17:21:55 addons\languagemissions_f_epc.pbo - 150117
+17:21:55 addons\languagemissions_f_exp_a.pbo - 150117
+17:21:55 addons\languagemissions_f_gamma.pbo - 150117
+17:21:55 addons\language_f.pbo - 150117
+17:21:55 addons\language_f_beta.pbo - 150117
+17:21:55 addons\language_f_bootcamp.pbo - 150117
+17:21:55 addons\language_f_epa.pbo - 150117
+17:21:55 addons\language_f_epb.pbo - 150117
+17:21:55 addons\language_f_epc.pbo - 150117
+17:21:55 addons\language_f_exp_a.pbo - 150117
+17:21:55 addons\language_f_exp_b.pbo - 150117
+17:21:55 addons\language_f_gamma.pbo - 150117
+17:21:55 addons\language_f_mod.pbo - 150117
+17:21:55 addons\language_f_warlords.pbo - 150117
+17:21:55 addons\map_altis.pbo - 148442
+17:21:55 addons\map_altis_data.pbo - 135904
+17:21:55 addons\map_altis_data_layers.pbo - 135913
+17:21:55 addons\map_altis_data_layers_00_00.pbo - 0000
+17:21:55 addons\map_altis_data_layers_00_01.pbo - 0000
+17:21:55 addons\map_altis_data_layers_01_00.pbo - 0000
+17:21:55 addons\map_altis_data_layers_01_01.pbo - 0000
+17:21:55 addons\map_altis_scenes_f.pbo - 119459
+17:21:55 addons\map_data.pbo - 134124
+17:21:55 addons\map_stratis.pbo - 148442
+17:21:55 addons\map_stratis_data.pbo - 135888
+17:21:55 addons\map_stratis_data_layers.pbo - 135888
+17:21:55 addons\map_stratis_scenes_f.pbo - 119459
+17:21:55 addons\map_vr.pbo - 135900
+17:21:55 addons\map_vr_scenes_f.pbo - 119459
+17:21:55 addons\misc_f.pbo - 119459
+17:21:55 addons\missions_f.pbo - 141704
+17:21:55 addons\missions_f_beta.pbo - 149566
+17:21:55 addons\missions_f_beta_data.pbo - 149165
+17:21:55 addons\missions_f_beta_video.pbo - 119459
+17:21:55 addons\missions_f_bootcamp.pbo - 145509
+17:21:55 addons\missions_f_bootcamp_data.pbo - 119459
+17:21:55 addons\missions_f_bootcamp_video.pbo - 119459
+17:21:55 addons\missions_f_data.pbo - 119459
+17:21:56 addons\missions_f_epa.pbo - 144315
+17:21:56 addons\missions_f_epa_data.pbo - 119459
+17:21:56 addons\missions_f_epa_video.pbo - 119459
+17:21:56 addons\missions_f_epb.pbo - 119459
+17:21:56 addons\missions_f_epc.pbo - 141704
+17:21:56 addons\missions_f_exp_a.pbo - 141704
+17:21:56 addons\missions_f_exp_a_data.pbo - 119459
+17:21:56 addons\missions_f_gamma.pbo - 149041
+17:21:56 addons\missions_f_gamma_data.pbo - 119459
+17:21:56 addons\missions_f_gamma_video.pbo - 119459
+17:21:56 addons\missions_f_video.pbo - 119459
+17:21:56 addons\missions_f_warlords.pbo - 145437
+17:21:56 addons\modules_f.pbo - 148754
+17:21:56 addons\modules_f_beta.pbo - 149693
+17:21:56 addons\modules_f_beta_data.pbo - 149274
+17:21:56 addons\modules_f_bootcamp.pbo - 119459
+17:21:56 addons\modules_f_data.pbo - 122470
+17:21:56 addons\modules_f_epb.pbo - 134655
+17:21:56 addons\modules_f_exp_a.pbo - 119459
+17:21:56 addons\modules_f_warlords.pbo - 144205
+17:21:56 addons\music_f.pbo - 119459
+17:21:56 addons\music_f_bootcamp.pbo - 119459
+17:21:56 addons\music_f_bootcamp_music.pbo - 119459
+17:21:56 addons\music_f_epa.pbo - 119459
+17:21:56 addons\music_f_epa_music.pbo - 119459
+17:21:56 addons\music_f_epb.pbo - 119459
+17:21:56 addons\music_f_epb_music.pbo - 119459
+17:21:56 addons\music_f_epc.pbo - 119459
+17:21:56 addons\music_f_epc_music.pbo - 119477
+17:21:56 addons\music_f_music.pbo - 119477
+17:21:56 addons\plants_f.pbo - 148432
+17:21:56 addons\props_f_exp_a.pbo - 147637
+17:21:56 addons\roads_f.pbo - 148432
+17:21:56 addons\rocks_f.pbo - 149339
+17:21:56 addons\signs_f.pbo - 148432
+17:21:56 addons\soft_f.pbo - 150070
+17:21:56 addons\soft_f_beta.pbo - 150071
+17:21:56 addons\soft_f_bootcamp.pbo - 150071
+17:21:56 addons\soft_f_epc.pbo - 150070
+17:21:56 addons\soft_f_gamma.pbo - 150071
+17:21:56 addons\sounds_f.pbo - 150048
+17:21:56 addons\sounds_f_arsenal.pbo - 143218
+17:21:56 addons\sounds_f_bootcamp.pbo - 119477
+17:21:56 addons\sounds_f_characters.pbo - 143095
+17:21:56 addons\sounds_f_environment.pbo - 143095
+17:21:56 addons\sounds_f_epb.pbo - 126923
+17:21:56 addons\sounds_f_epc.pbo - 125380
+17:21:56 addons\sounds_f_exp_a.pbo - 119477
+17:21:56 addons\sounds_f_mod.pbo - 131534
+17:21:56 addons\sounds_f_sfx.pbo - 143211
+17:21:56 addons\sounds_f_vehicles.pbo - 146855
+17:21:56 addons\static_f.pbo - 149975
+17:21:56 addons\static_f_beta.pbo - 132365
+17:21:56 addons\static_f_gamma.pbo - 122615
+17:21:56 addons\structures_f.pbo - 148886
+17:21:56 addons\structures_f_bootcamp.pbo - 143436
+17:21:56 addons\structures_f_data.pbo - 148419
+17:21:56 addons\structures_f_epa.pbo - 149252
+17:21:56 addons\structures_f_epb.pbo - 148421
+17:21:56 addons\structures_f_epc.pbo - 148804
+17:21:56 addons\structures_f_exp_a.pbo - 132665
+17:21:56 addons\structures_f_households.pbo - 148419
+17:21:56 addons\structures_f_ind.pbo - 150048
+17:21:56 addons\structures_f_mil.pbo - 148419
+17:21:56 addons\structures_f_wrecks.pbo - 148419
+17:21:56 addons\uifonts_f.pbo - 119478
+17:21:56 addons\uifonts_f_data.pbo - 150106
+17:21:56 addons\ui_f.pbo - 150105
+17:21:56 addons\ui_f_bootcamp.pbo - 119478
+17:21:56 addons\ui_f_data.pbo - 149913
+17:21:56 addons\ui_f_exp_a.pbo - 119478
+17:21:56 addons\weapons_f.pbo - 150071
+17:21:56 addons\weapons_f_beta.pbo - 149465
+17:21:56 addons\weapons_f_bootcamp.pbo - 141713
+17:21:56 addons\weapons_f_epa.pbo - 148783
+17:21:56 addons\weapons_f_epb.pbo - 137810
+17:21:56 addons\weapons_f_epc.pbo - 130416
+17:21:56 addons\weapons_f_gamma.pbo - 148783
+17:21:56 addons\weapons_f_mod.pbo - 149339
+17:21:56 
+17:21:56 =======================
+17:21:56 
+17:21:56 Global namespace not passed during: false
+17:21:56 Global namespace not passed during: false
+17:21:56 Error in expression <false>
+17:21:56   Error position: <false>
+17:21:56   Error Local variable in global space
+17:21:56 Global namespace not passed during: false
+17:21:56 Global namespace not passed during: false
+17:21:56 Error in expression <false>
+17:21:56   Error position: <false>
+17:21:56   Error Local variable in global space
+17:21:57 ============================================================================================= List of mods ===============================================================================================
+17:21:57 modsReadOnly = true
+17:21:57 safeModsActivated = false
+17:21:57 customMods = true
+17:21:57 hash = 'AAE69CFF513474B2EC0234B82D745FFCEFD8B9AF'
+17:21:57 hashShort = 'acab5a'
+17:21:57                                               name |               modDir |    default |   official |               origin |                                     hash | hashShort | fullPath
+17:21:57 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17:21:57                               Zeus Enhanced 1.12.1 |       @Zeus Enhanced |      false |      false |             GAME DIR | 44f84db4b41a5dd4569fd26166c5fc983afab1c2 |  9b635689 | F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Zeus Enhanced
+17:21:57                               Operation: TREBUCHET | @Operation TREBUCHET |      false |      false |             GAME DIR | 03e88621652804856307449f12b1ae4f7b7b5210 |  9dc70dda | F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@Operation TREBUCHET
+17:21:57                      Community Base Addons v3.15.6 |              @CBA_A3 |      false |      false |             GAME DIR | 00127cc3983804656fcdb4021c85a778b920cb3d |  5ca1ed2c | F:\SteamLibrary2\steamapps\common\Arma 3\!Workshop\@CBA_A3
+17:21:57                                  Arma 3 Art of War |                  aow |       true |       true |             GAME DIR | 685f3f92f2f018fb6190d6287c2c309a7152485d |  3de54a6e | F:\SteamLibrary2\steamapps\common\Arma 3\aow
+17:21:57                          Arma 3 Contact (Platform) |                enoch |       true |       true |             GAME DIR | f796db072af5f74f7799657e79b271ef703c625f |  8e05d014 | F:\SteamLibrary2\steamapps\common\Arma 3\enoch
+17:21:57                                       Arma 3 Tanks |                 tank |       true |       true |             GAME DIR | 2cdb753458515a78e0b3395483d1cb9e9a2008dd |  56001efc | F:\SteamLibrary2\steamapps\common\Arma 3\tank
+17:21:57                                     Arma 3 Tac-Ops |               tacops |       true |       true |             GAME DIR | 32f7bef66d312614af96acb335db98d97476469d |   db0cd60 | F:\SteamLibrary2\steamapps\common\Arma 3\tacops
+17:21:57                                 Arma 3 Laws of War |               orange |       true |       true |             GAME DIR | 39f960bfe607785f77f696ede43051b1703e1e9f |  dbc0b3a0 | F:\SteamLibrary2\steamapps\common\Arma 3\orange
+17:21:57                                      Arma 3 Malden |                 argo |       true |       true |             GAME DIR | 6e24d5f248087723b8a70bba28623a328e098200 |  916a2037 | F:\SteamLibrary2\steamapps\common\Arma 3\argo
+17:21:57                                        Arma 3 Jets |                 jets |       true |       true |             GAME DIR | db859fab8528a0d3ff45af8b25b0954f708c67c2 |  ad6778e5 | F:\SteamLibrary2\steamapps\common\Arma 3\jets
+17:21:57                                        Arma 3 Apex |            expansion |       true |       true |             GAME DIR | 7246531f2afae15067fc5a0025bd04c5b28f52f4 |  ba98bf0f | F:\SteamLibrary2\steamapps\common\Arma 3\expansion
+17:21:57                                    Arma 3 Marksmen |                 mark |       true |       true |             GAME DIR | ff41820141d5f1a1628f02d741a04fda5696508f |  38b5b45a | F:\SteamLibrary2\steamapps\common\Arma 3\mark
+17:21:57                                 Arma 3 Helicopters |                 heli |       true |       true |             GAME DIR | 5077195eb8f73df159a72e045f4d2c6f3bd82547 |  c542a03a | F:\SteamLibrary2\steamapps\common\Arma 3\heli
+17:21:57                                       Arma 3 Karts |                 kart |       true |       true |             GAME DIR | e58529666f9d19244b6499e21fcad4b74d8e6c30 |   d1c1841 | F:\SteamLibrary2\steamapps\common\Arma 3\kart
+17:21:57                                        Arma 3 Zeus |              curator |       true |       true |             GAME DIR | f0e5305d8f8cb858c217e773ddb2728351051902 |  80f88434 | F:\SteamLibrary2\steamapps\common\Arma 3\curator
+17:21:57                                             Arma 3 |                   A3 |       true |       true |            NOT FOUND |                                          |           | 
+17:21:57 ==========================================================================================================================================================================================================
+17:21:57 DX11 - Initializing DX11 engine.
+17:21:57 DX11 - Using DXGI adapter 0 (detected in config).
+17:21:57 DX11 - Using DXGI adapter 0.
+17:21:57     - adapter description : NVIDIA GeForce RTX 2070
+17:21:57     - adapter vendor ID : 4318
+17:21:57     - adapter device ID : 7938
+17:21:57     - adapter subsys ID : 926159970
+17:21:57     - adapter revision  : 161
+17:21:57     - dedicated video memory : 4126146560
+17:21:57     - dedicated system memory : 0
+17:21:57     - shared system memory : 4250712064
+17:21:57     - driver version : 49709/r496_97
+17:21:57 InitSound ...
+17:21:57 Selected Audio Output: Speakers (HyperX Cloud Stinger Core Wireless + 7.1) - Channels: 2, Freq: 48000
+17:21:57 InitSound - complete
+17:21:59 PhysX3 SDK Init started ...
+17:21:59 PhysX3 SDK Init ended.
+17:22:01 [CBA] (xeh) INFO: [0,36.564,0] PreStart started.
+17:22:03 [CBA] (xeh) INFO: [0,38.938,0] PreStart finished.
+17:22:03 [CBA] (xeh) WARNING: unscdrone_wreck_F does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_Objects_Wreck_Falcon does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_HEV does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_EscapePod_Base does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_M12_CIV does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: Land_OPTRE_barrel_hydrogen does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: Land_OPTRE_fusion_coil does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_Pelican_F does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:03 [CBA] (xeh) WARNING: OPTRE_Objects_Wreck_Pelican does not support Extended Event Handlers! Addon: @Operation TREBUCHET
+17:22:05 SimulWeather - Cloud Renderer - noise texture file is not specified!
+17:22:06 SimulWeather - Cloud Renderer - noise texture file is not specified!
+17:22:08 [CBA] (settings) INFO: Userconfig: Ignored.
+17:22:09 No class ''
+17:22:09 No ammo class ''
+17:22:09 OPTRE_M_ANVIL_4_ARTY: Bad ammo simulation 'shotRocket'
+17:22:09 Loading movesType CfgGesturesMale
+17:22:09 Creating action map cache
+17:22:09 Warning: rightHandIKCurve, wrong size (size<2||size>=4) in OPTRE_GestureReloadM7
+17:22:09 Warning: rightHandIKCurve, wrong size (size<2||size>=4) in OPTRE_GestureReloadM7
+17:22:09 Warning: rightHandIKCurve, wrong size (size<2||size>=4) in OPTRE_GestureReloadM7
+17:22:09 MovesType CfgGesturesMale load time 514.0 ms
+17:22:09 Loading movesType CfgMovesMaleSdr
+17:22:09 Creating action map cache
+17:22:13 Warning: looped for animation: a3\anims_f_epa\data\anim\sdr\cts\hubcleaned\briefing\hubbriefing_loop.rtm differs (looped now 0)! MoveName: hubbriefing_ext
+17:22:13 Warning: looped for animation: a3\anims_f_epa\data\anim\sdr\cts\hubcleaned\spectator\hubspectator_stand.rtm differs (looped now 0)! MoveName: hubspectator_stand
+17:22:16 MovesType CfgMovesMaleSdr load time 6795.0 ms
+17:22:31 Mission GULTCH_TEST.Blood_OPTRE: Missing 'description.ext::Header'
+17:22:33 Starting mission:
+17:22:33  Mission file: GULTCH_TEST
+17:22:33  Mission world: Blood_OPTRE
+17:22:33  Mission directory: C:\Users\nekbo\Documents\Arma 3 - Other Profiles\Sully995\mpmissions\GULTCH_TEST.Blood_OPTRE\
+17:22:34 [CBA] (xeh) INFO: [4171,69.85,0] PreInit started. v3.15.6.211004
+17:22:34 [CBA] (settings) INFO: Reading settings from settings file.
+17:22:34 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:22:34 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:22:34 [CBA] (xeh) INFO: [4171,69.954,0] PreInit finished.
+17:22:35 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+17:22:35 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+17:22:35 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+17:22:35 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+17:22:35 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+17:22:35 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+17:22:35 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+17:22:35 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+17:22:36 c:\bis\source\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+17:22:36 [CBA] (xeh) INFO: [4176,71.167,0] PostInit started. MISSIONINIT: missionName=GULTCH_TEST, missionVersion=54, worldName=Blood_OPTRE, isMultiplayer=true, isServer=true, isDedicated=false, CBA_isHeadlessClient=false, hasInterface=true, didJIP=false
+17:22:36 [CBA] (versioning) INFO: [4176,71.178,0] VERSIONING:cba=3.15.6.211004, zen=1.12.1.29
+17:22:36 [CBA] (xeh) INFO: [4176,71.184,0] PostInit finished.
+17:22:36 Unknown task state: 
+17:22:36 Unknown task state: 
+17:22:36 Unknown task state: 
+17:22:38  Mission id: 31b9a7a4190dfff5b29e239852e9f316f614eb5a
+17:22:38 Fresnel k must be >0, given n=2.51,k=0
+17:22:39 Loading movesType CfgMovesButterfly
+17:22:39 Creating action map cache
+17:22:39 MovesType CfgMovesButterfly load time 118.0 ms
+17:22:39 Loading movesType CfgMovesBird
+17:22:39 Creating action map cache
+17:22:39 MovesType CfgMovesBird load time 63.0 ms
+17:22:39 Loading movesType CfgMovesSnakes_F
+17:22:39 Creating action map cache
+17:22:39 MovesType CfgMovesSnakes_F load time 50.0 ms
+17:22:41 [CBA] (ui) INFO: Curator item list already preloaded.
+17:22:48 Loading movesType CfgMovesRabbit_F
+17:22:48 Creating action map cache
+17:22:48 MovesType CfgMovesRabbit_F load time 22.0 ms
+17:29:20 Starting mission:
+17:29:20  Mission file: intro1
+17:29:20  Mission world: blood_optre
+17:29:20  Mission directory: \OPTRE_Blood\scenes\intro1.blood_optre\
+17:29:21 [CBA] (xeh) INFO: [18883,476.585,0] PreInit started. v3.15.6.211004
+17:29:21 [CBA] (settings) INFO: Reading settings from settings file.
+17:29:21 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:29:21 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:29:21 [CBA] (xeh) INFO: [18883,476.68,0] PreInit finished.
+17:29:22 [CBA] (xeh) INFO: [18888,477.931,0] PostInit started. MISSIONINIT: missionName=intro1, missionVersion=54, worldName=blood_optre, isMultiplayer=false, isServer=true, isDedicated=false, CBA_isHeadlessClient=false, hasInterface=true, didJIP=false
+17:29:22 [CBA] (versioning) INFO: [18888,477.937,0] VERSIONING:cba=3.15.6.211004, zen=1.12.1.29
+17:29:22 [CBA] (xeh) INFO: [18888,477.943,0] PostInit finished.
+17:29:22 Unknown task state: 
+17:29:22 Unknown task state: 
+17:29:22 Unknown task state: 
+17:29:31 No more slot to add connection at 033057 (3386.8,5735.4)
+17:29:37 [CBA] (ui) INFO: 3DEN item list preloaded. Time: 129 ms
+17:29:43 [CBA] (xeh) INFO: missionNamespace processed [false]
+17:29:43 [CBA] (xeh) INFO: [20416,498.162,0] PreInit started. v3.15.6.211004
+17:29:43 [CBA] (settings) INFO: Reading settings from settings file.
+17:29:43 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:29:43 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:29:43 [CBA] (xeh) INFO: [20416,498.251,0] PreInit finished.
+17:30:23 [CBA] (settings) INFO: Checking mission settings file ...
+17:30:31 [CBA] (settings) INFO: Checking mission settings file ...
+17:30:33 [CBA] (settings) INFO: Checking mission settings file ...
+17:30:33 Starting mission:
+17:30:33  Mission file: ZEN-OPTRE-TEST
+17:30:33  Mission world: Stratis
+17:30:33  Mission directory: C:\Users\nekbo\Documents\Arma 3 - Other Profiles\Sully995\missions\ZEN-OPTRE-TEST.Stratis\
+17:30:34 [CBA] (xeh) INFO: [25375,549.349,0] PreInit started. v3.15.6.211004
+17:30:34 [CBA] (settings) INFO: Reading settings from settings file.
+17:30:34 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:30:34 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:30:34 [CBA] (xeh) INFO: [25375,549.447,0] PreInit finished.
+17:30:35 [CBA] (xeh) INFO: [25385,550.883,0] PostInit started. MISSIONINIT: missionName=ZEN-OPTRE-TEST, missionVersion=54, worldName=Stratis, isMultiplayer=false, isServer=true, isDedicated=false, CBA_isHeadlessClient=false, hasInterface=true, didJIP=false
+17:30:35 [CBA] (versioning) INFO: [25385,550.884,0] VERSIONING:cba=3.15.6.211004, zen=1.12.1.29
+17:30:35 [CBA] (xeh) INFO: [25385,550.89,0] PostInit finished.
+17:30:35 Unknown task state: 
+17:30:35 Unknown task state: 
+17:30:35 Unknown task state: 
+17:30:38  Mission id: 2c33924516a94007dda2f89a8ac9e3142ce13ba2
+17:30:40 [CBA] (ui) INFO: Curator item list already preloaded.
+17:30:48 [CBA] (xeh) INFO: missionNamespace processed [false]
+17:30:48 [CBA] (xeh) INFO: [26238,563.113,0] PreInit started. v3.15.6.211004
+17:30:48 [CBA] (settings) INFO: Reading settings from settings file.
+17:30:48 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:30:48 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:30:48 [CBA] (xeh) INFO: [26238,563.203,0] PreInit finished.
+17:30:54 [CBA] (settings) INFO: Checking mission settings file ...
+17:30:54 Starting mission:
+17:30:54  Mission file: ZEN-OPTRE-TEST
+17:30:54  Mission world: Stratis
+17:30:54  Mission directory: C:\Users\nekbo\Documents\Arma 3 - Other Profiles\Sully995\missions\ZEN-OPTRE-TEST.Stratis\
+17:30:55 [CBA] (xeh) INFO: [26826,570.248,0] PreInit started. v3.15.6.211004
+17:30:55 [CBA] (settings) INFO: Reading settings from settings file.
+17:30:55 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:30:55 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:30:55 [CBA] (xeh) INFO: [26826,570.344,0] PreInit finished.
+17:30:57  Mission id: 07279c59aee0b49a427003259f266615fac78edc
+17:30:57 [CBA] (xeh) INFO: [26938,572.354,0] PostInit started. MISSIONINIT: missionName=ZEN-OPTRE-TEST, missionVersion=54, worldName=Stratis, isMultiplayer=false, isServer=true, isDedicated=false, CBA_isHeadlessClient=false, hasInterface=true, didJIP=false
+17:30:57 [CBA] (versioning) INFO: [26938,572.355,0] VERSIONING:cba=3.15.6.211004, zen=1.12.1.29
+17:30:57 [CBA] (xeh) INFO: [26938,572.361,0] PostInit finished.
+17:30:57 Unknown task state: 
+17:30:57 Unknown task state: 
+17:30:57 Unknown task state: 
+17:30:58 [CBA] (ui) INFO: Curator item list already preloaded.
+17:31:05 [CBA] (xeh) INFO: missionNamespace processed [false]
+17:31:05 [CBA] (xeh) INFO: [27523,580.823,0] PreInit started. v3.15.6.211004
+17:31:05 [CBA] (settings) INFO: Reading settings from settings file.
+17:31:05 [CBA] (settings) INFO: Finished reading settings from settings file.
+17:31:05 [CBA] (xeh) WARNING: One or more children of class OPTRE_Pelican_F do not support Extended Event Handlers. Fall back to loop.
+17:31:05 [CBA] (xeh) INFO: [27523,580.915,0] PreInit finished.
+17:31:30 Shutdown normally
+17:31:30 SimulWeather - Cloud Renderer - noise texture file is not specified!
+17:31:30 Deinitialized shape [Class: "C_Soldier_VR_F"; Shape: "a3\characters_f_bootcamp\common\vr_soldier_f.p3d";]
+17:31:30 Deinitialized shape [Class: "OPTRE_UNSC_ONI_Soldier_Naval"; Shape: "a3\characters_f\common\coveralls.p3d";]
+17:31:30 c:\bis\source\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+17:31:31 Class WeaponFireGun destroyed with lock count 3
+17:31:31 Class Table destroyed with lock count 3
+17:31:31 Class T0 destroyed with lock count 3
+17:31:31 Class T1 destroyed with lock count 3
+17:31:31 Class T2 destroyed with lock count 3
+17:31:31 Class T3 destroyed with lock count 3
+17:31:31 Class T4 destroyed with lock count 3
+17:31:31 Class T5 destroyed with lock count 3
+17:31:31 Class T6 destroyed with lock count 3
+17:31:31 Class T7 destroyed with lock count 3
+17:31:31 Class T8 destroyed with lock count 3
+17:31:31 Class T9 destroyed with lock count 3
+17:31:31 Class T10 destroyed with lock count 3
+17:31:31 Class T11 destroyed with lock count 3
+17:31:31 Class T12 destroyed with lock count 3
+17:31:31 Class T13 destroyed with lock count 3
+17:31:31 Class T14 destroyed with lock count 3
+17:31:31 Class T15 destroyed with lock count 3
+17:31:31 Class T16 destroyed with lock count 3
+17:31:31 Class T17 destroyed with lock count 3
+17:31:31 Class T18 destroyed with lock count 3
+17:31:31 Class T19 destroyed with lock count 3
+17:31:31 Class T20 destroyed with lock count 3
+17:31:31 Class T21 destroyed with lock count 3
+17:31:31 Class T22 destroyed with lock count 3
+17:31:31 Class WeaponCloudsGun destroyed with lock count 6
+17:31:31 Class Table destroyed with lock count 6
+17:31:31 Class T0 destroyed with lock count 6
+17:31:31 Class WeaponCloudsMGun destroyed with lock count 3
+17:31:31 Class Table destroyed with lock count 3
+17:31:31 Class T0 destroyed with lock count 3
+17:31:31 Class All destroyed with lock count 3
+17:31:31 Class EventHandlers destroyed with lock count 3
+17:31:31 Class CBA_Extended_EventHandlers destroyed with lock count 3
+17:31:31 Class MarkerLights destroyed with lock count 3
+17:31:31 Class NVGMarkers destroyed with lock count 3
+17:31:31 Class NVGMarker destroyed with lock count 3
+17:31:31 Class Turrets destroyed with lock count 3
+17:31:31 Class HeadLimits destroyed with lock count 3
+17:31:31 Class ViewPilot destroyed with lock count 3
+17:31:31 Class ViewCargo destroyed with lock count 3
+17:31:31 Class ViewOptics destroyed with lock count 3
+17:31:31 Class PilotSpec destroyed with lock count 3
+17:31:31 Class CargoSpec destroyed with lock count 3
+17:31:31 Class Cargo1 destroyed with lock count 3
+17:31:31 Class TransportWeapons destroyed with lock count 3
+17:31:31 Class TransportMagazines destroyed with lock count 3
+17:31:31 Class SoundEnvironExt destroyed with lock count 3
+17:31:31 Class SoundEquipment destroyed with lock count 3
+17:31:31 Class SoundGear destroyed with lock count 3
+17:31:31 Class SoundBreath destroyed with lock count 3
+17:31:31 Class SoundBreathSwimming destroyed with lock count 3
+17:31:31 Class SoundBreathInjured destroyed with lock count 3
+17:31:31 Class SoundHitScream destroyed with lock count 3
+17:31:31 Class SoundInjured destroyed with lock count 3
+17:31:31 Class SoundBreathAutomatic destroyed with lock count 3
+17:31:31 Class SoundDrown destroyed with lock count 3
+17:31:31 Class SoundChoke destroyed with lock count 3
+17:31:31 Class SoundRecovered destroyed with lock count 3
+17:31:31 Class SoundBurning destroyed with lock count 3
+17:31:31 Class PulsationSound destroyed with lock count 3
+17:31:31 Class SoundDrowning destroyed with lock count 3
+17:31:31 Class Reflectors destroyed with lock count 3
+17:31:31 Class FxExplo destroyed with lock count 3
+17:31:31 Class AnimationSources destroyed with lock count 3
+17:31:31 Class GunFire destroyed with lock count 3
+17:31:31 Class GunClouds destroyed with lock count 3
+17:31:31 Class MGunClouds destroyed with lock count 3
+17:31:31 Class Damage destroyed with lock count 3
+17:31:31 Class DestructionEffects destroyed with lock count 3
+17:31:31 Class Light1 destroyed with lock count 3
+17:31:31 Class Smoke1 destroyed with lock count 3
+17:31:31 Class Fire1 destroyed with lock count 3
+17:31:31 Class Sparks1 destroyed with lock count 3
+17:31:31 Class Sound destroyed with lock count 3
+17:31:31 Class Light2 destroyed with lock count 3
+17:31:31 Class Fire2 destroyed with lock count 3
+17:31:31 Class Smoke1_2 destroyed with lock count 3
+17:31:31 Class camShakeGForce destroyed with lock count 3
+17:31:31 Class camShakeDamage destroyed with lock count 3
+17:31:31 Class SpeechVariants destroyed with lock count 3
+17:31:31 Class Default destroyed with lock count 3
+17:31:31 Class Static destroyed with lock count 2
+17:31:31 Class DestructionEffects destroyed with lock count 2
+17:31:31 Class EventHandlers destroyed with lock count 2
+17:31:31 Class CBA_Extended_EventHandlers destroyed with lock count 2
+17:31:31 Class CBA_NamespaceDummy destroyed with lock count 1
+17:31:31 Class CBA_Extended_EventHandlers_base destroyed with lock count 3
+17:31:31 Extensions:
